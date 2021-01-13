@@ -1,0 +1,19 @@
+{
+  "name": "article_preview",
+  "version": "1.0.0",
+  "description": "a frontend masters project",
+  "main": "index.html",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paddy852/article_preview.git"
+  },
+  "author": "Glyn Hiscock",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paddy852/article_preview/issues"
+  },
+  "homepage": "https://github.com/paddy852/article_preview#readme"
+}
