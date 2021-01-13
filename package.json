@@ -1,9 +1,10 @@
 {
   "name": "article_preview",
   "version": "1.0.0",
-  "description": "a frontend masters project",
+  "description": "![Design preview for the Article preview component coding challenge](./design/desktop-preview.jpg)",
   "main": "index.html",
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
     "sass": "node-sass -w scss/ -o css/ --recursive"
   },
   "repository": {
@@ -15,8 +16,5 @@
   "bugs": {
     "url": "https://github.com/paddy852/article_preview/issues"
   },
-  "homepage": "https://github.com/paddy852/article_preview#readme",
-  "dependencies": {
-    "node-sass": "^5.0.0"
-  }
+  "homepage": "https://github.com/paddy852/article_preview#readme"
 }
