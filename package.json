@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/paddy852/article_preview/issues"
   },
-  "homepage": "https://github.com/paddy852/article_preview#readme"
+  "homepage": "https://github.com/paddy852/article_preview#readme",
+  "dependencies": {
+    "node-sass": "^5.0.0"
+  }
 }
