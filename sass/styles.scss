@@ -103,7 +103,7 @@ main {
       .profile {
         .flag {
           width: 100%;
-          height: 20px;
+          height: 150px;
           border-radius: 15px 15px 0 0;
         }
 
@@ -112,9 +112,26 @@ main {
             font-size: 1rem;
             font-weight: 700;
           }
+
+          .social {
+            #icons {
+              width: 50px;
+            }
+    
+            #icons a {
+              display: block;
+              padding-bottom: 10px;
+            }
+          }
         }
+        
       }
+
+      
     }
+
+
+    
   }
 }
 
